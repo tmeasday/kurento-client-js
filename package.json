@@ -40,12 +40,12 @@
     "es6-promise": "2.1.1",
     "extend": "^2.0.1",
     "inherits": "~2.0.1",
-    "kurento-client-core": "Kurento/kurento-client-core-js.git#release-5.1",
-    "kurento-client-elements": "Kurento/kurento-client-elements-js.git#release-5.1",
-    "kurento-client-filters": "Kurento/kurento-client-filters-js.git#release-5.1",
+    "kurento-client-core": "https://github.com/Kurento/kurento-client-core-js/tarball/release-5.1",
+    "kurento-client-elements": "https://github.com/Kurento/kurento-client-elements-js/tarball/release-5.1",
+    "kurento-client-filters": "https://github.com/Kurento/kurento-client-filters-js/tarball/release-5.1",
     "kurento-jsonrpc": "5.0.4",
     "promisecallback": "0.0.3",
-    "reconnect-ws": "KurentoForks/reconnect-ws"
+    "reconnect-ws": "https://github.com/tmeasday/reconnect-ws/tarball/master"
   },
   "devDependencies": {
     "bower": "~1.4.1",
